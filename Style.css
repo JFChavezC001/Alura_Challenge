@@ -1,0 +1,41 @@
+body{
+    background: cadetblue;
+
+}
+#logo{
+}
+main{}
+form{
+    display:grid;
+}
+#instrucciones{
+    color:cornsilk;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 50px auto;
+}
+#area-de-texto{
+    width: 50%;
+    height: 100%;
+    align-content: center;
+    border-color: white;
+    background-color: transparent;
+    border-style: dashed;
+    margin: auto;
+}
+
+#Encriptador{
+    width: 80px;
+    background-color: darkcyan;
+    color: white;
+    border-color: white;
+    margin-top: 60px;
+    margin: auto;
+}
+#Desencriptador{
+    width: 90px;
+    background-color: darkcyan;
+    color: white;
+    border-color: white;
+    margin-top: 20px;
+}
